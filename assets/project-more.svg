@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="314.5" viewBox="0 0 480 314.5" role="img" aria-label="See every project, with PDFs, videos and live demos, on bhonepyaemin.com">
+  <defs><clipPath id="c"><rect width="480" height="314.5" rx="14"/></clipPath>
+    <radialGradient id="g" cx="0.5" cy="0.5" r="0.7"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.16"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient></defs>
+  <g clip-path="url(#c)"><rect width="480" height="314.5" fill="#0A0F1C"/><rect width="480" height="314.5" fill="url(#g)"/>
+    <circle cx="240" cy="123.25" r="26" fill="#2DD4BF" fill-opacity="0.12" stroke="#2DD4BF" stroke-opacity="0.5"><animate attributeName="r" values="26;30;26" dur="2.4s" repeatCount="indefinite"/></circle>
+    <g transform="translate(226 109.25) scale(1.1666666666666667)" fill="none" stroke="#2DD4BF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></g>
+    <text x="240" y="177.25" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" fill="#E6EDF3">Explore all 11 projects</text>
+    <text x="240" y="203.25" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#8B98B3">Interactive PDFs, demo videos and live demos</text>
+    <text x="240" y="231.25" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" fill="#2DD4BF">bhonepyaemin.com/#projects →</text>
+  </g><rect x="0.75" y="0.75" width="478.5" height="313" rx="13.5" fill="none" stroke="#1F2A44" stroke-width="1.5"/></svg>
