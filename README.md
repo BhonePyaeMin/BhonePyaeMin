@@ -30,12 +30,12 @@
 <br />
 <a href="https://github.com/BhonePyaeMin/Mail-Shield"><img src="assets/bp-tbl-mailshield.svg" width="100%" alt="MAILSHIELD: Spots spoofed and phishing emails by analyzing their headers. Tech: Python, Flask, JavaScript" /></a>
 <br />
-<a href="https://github.com/BhonePyaeMin/GNS3-Live-Topology-Resilience-Dashboard"><img src="assets/bp-tbl-gns3-dashboard.svg" width="100%" alt="GNS3 DASHBOARD: A live map of a GNS3 lab that flags links whose failure would split the network. Tech: Python, Flask, GNS3" /></a>
+<a href="https://github.com/BhonePyaeMin/Spider-Lily"><img src="assets/bp-tbl-spider-lily.svg" width="100%" alt="SPIDER LILY &amp; LOTUS: Hand-tracked 3D flowers that bloom as you open your hand. Tech: MediaPipe, Three.js, JavaScript" /></a>
 <br />
 <a href="https://github.com/BhonePyaeMin/secure-expense-tracker"><img src="assets/bp-tbl-spendwise.svg" width="100%" alt="SPENDWISE: A secure multi-user expense tracker built on Spring Boot. Tech: Java, Spring Boot, JUnit 5" /></a>
 </p>
 
-<p align="center"><sub><b>▶ Live demos:</b> <a href="https://bhonepyaemin.com/netlab/">NetLab 3D</a> · <a href="https://bhonepyaemin.com/mailshield/">MailShield</a></sub></p>
+<p align="center"><sub><b>▶ Live demos:</b> <a href="https://bhonepyaemin.com/netlab/">NetLab 3D</a> · <a href="https://bhonepyaemin.com/mailshield/">MailShield</a> · <a href="https://bhonepyaemin.com/spiderlily/">Spider Lily</a> · <a href="https://bhonepyaemin.com/lotus/">Lotus Pond</a></sub></p>
 
 <p align="center"><a href="https://bhonepyaemin.com/#projects"><img src="assets/bp-btn-all-projects.svg" height="46" alt="View all 11 projects" /></a></p>
 
