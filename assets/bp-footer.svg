@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="End of set — thanks for reviewing. Full interactive build at bhonepyaemin.com">
+  <style>.sig{stroke-dasharray:420;animation:sign 4s ease-in-out infinite}@keyframes sign{0%{stroke-dashoffset:420}55%,100%{stroke-dashoffset:0}}</style>
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C3272"/><stop offset="1" stop-color="#082456"/></linearGradient>
+    <pattern id="gmin" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M10 0H0V10" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/></pattern>
+    <pattern id="gmaj" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#FFFFFF" stroke-opacity="0.1"/></pattern>
+    <clipPath id="paper"><rect width="1000" height="150" rx="10"/></clipPath></defs><g clip-path="url(#paper)"><rect width="1000" height="150" fill="url(#bgp)"/><rect width="1000" height="150" fill="url(#gmin)"/><rect width="1000" height="150" fill="url(#gmaj)"/>
+    <text x="38" y="62" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="2" fill="#EAF2FF">END OF SET</text>
+    <text x="38" y="88" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#A9C6F2">Thanks for reviewing these drawings. The full interactive build lives at</text>
+    <text x="38" y="112" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#FDBA74">BHONEPYAEMIN.COM ↗</text>
+    <path d="M600 92 C 615 60, 630 60, 640 88 S 668 112, 680 78 S 705 52, 716 84 S 745 108, 760 80 C 770 64, 790 70, 800 86 S 840 100, 870 72" fill="none" stroke="#EAF2FF" stroke-width="2" stroke-linecap="round" class="sig"/>
+    <path d="M590 112H900" stroke="#A9C6F2" stroke-opacity="0.6"/>
+    <text x="590" y="128" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" fill="#6F95CF">APPROVED · B. PYAE MIN · 2026</text>
+  
+      <rect x="6" y="6" width="988" height="138" fill="none" stroke="#A9C6F2" stroke-opacity="0.45"/>
+      <rect x="14" y="14" width="972" height="122" fill="none" stroke="#EAF2FF" stroke-opacity="0.8" stroke-width="1.6"/></g>
+</svg>

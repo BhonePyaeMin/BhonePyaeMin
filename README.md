@@ -1,57 +1,49 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Hi, I'm Bhone Pyae Min — Computer Engineering student building in networking, network automation, security and AI. Open to internships, January to May 2027." />
+<img src="assets/bp-hero.svg" width="100%" alt="Blueprint profile sheet — Bhone Pyae Min, Computer Engineering at Mae Fah Luang University. Open for internship, Jan 1 – May 31, 2027." />
 
-<a href="https://bhonepyaemin.com/"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
-<a href="https://bhonepyaemin.com/resume.pdf"><img src="assets/btn-resume.svg" height="46" alt="Resume" /></a>
-<a href="https://www.linkedin.com/in/bhone-pyae-min-77314b434"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
-<a href="https://th.jobsdb.com/th/profiles/bhonepyae-min-ns7y634rgd"><img src="assets/btn-jobsdb.svg" height="46" alt="JobsDB" /></a>
-<a href="mailto:bhonepyaemin.tech@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email" /></a>
-
-<img src="assets/stats.svg" width="100%" alt="11 projects built · 5 live demos · 56 skills and tools · 15 certifications" />
+<a href="https://bhonepyaemin.com/"><img src="assets/bp-btn-portfolio.svg" height="44" alt="Portfolio" /></a>
+<a href="https://bhonepyaemin.com/resume.pdf"><img src="assets/bp-btn-resume.svg" height="44" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/bhone-pyae-min-77314b434"><img src="assets/bp-btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="https://th.jobsdb.com/th/profiles/bhonepyae-min-ns7y634rgd"><img src="assets/bp-btn-jobsdb.svg" height="44" alt="JobsDB" /></a>
+<a href="mailto:bhonepyaemin.tech@gmail.com"><img src="assets/bp-btn-email.svg" height="44" alt="Email" /></a>
 
 </div>
 
-<img src="assets/h-about.svg" width="100%" alt="whoami — Taking networks apart to see how they work" />
+<img src="assets/bp-h-about.svg" width="100%" alt="Detail A — The engineer, on one sheet" />
 
-I'm a Computer Engineering student at **Mae Fah Luang University** in Chiang Rai, Thailand. Most of what I build sits where networks meet software: labs in GNS3, Python that configures routers for me, and small tools that make security problems easy to see.
+<img src="assets/bp-chip.svg" width="100%" alt="BPM-2026 pinout and datasheet" />
 
-I learn by breaking things down — trace the packet, read the config, rebuild it — and then I automate it, so nobody has to type it twice.
+<img src="assets/bp-h-journey.svg" width="100%" alt="Detail B — Build history" />
 
-<img src="assets/about-cli.svg" width="100%" alt="bhone-lab console: profile, interfaces up for Networking, Cybersecurity, Network Automation and AI / ML, and ping internship — available Jan 1 to May 31, 2027" />
+<img src="assets/bp-gitlog.svg" width="100%" alt="Career as a git log" />
 
-<img src="assets/h-journey.svg" width="100%" alt="git log --career — The path so far" />
-
-<img src="assets/career.svg" width="100%" alt="Career timeline: 2023 — NOW B.Eng. Computer Engineering; 2024 Web Development; 2025 Service Provider Networks &amp; Network Security; 2025 Mobile Development; 2026 Network Analytics &amp; Telemetry" />
-
-<img src="assets/h-projects.svg" width="100%" alt="featured builds — Things I've built" />
+<img src="assets/bp-h-projects.svg" width="100%" alt="Detail C — Assemblies" />
 
 <p align="center">
-<a href="https://github.com/BhonePyaeMin/AI-Powered-Network-Configuration-Automation"><img src="assets/card-network-config.svg" width="49%" alt="AI-Powered Network Configuration Automation" /></a>
-<a href="https://github.com/BhonePyaeMin/Study_Ai"><img src="assets/card-study-assistant.svg" width="49%" alt="AI-Based Study Assistant" /></a>
-<a href="https://github.com/BhonePyaeMin/netlab-3d"><img src="assets/card-network-simulator.svg" width="49%" alt="NetLab 3D — Network &amp; Security Simulator" /></a>
-<a href="https://github.com/BhonePyaeMin/asset_borrowing_system"><img src="assets/card-asset-borrowing.svg" width="49%" alt="Asset Borrowing System" /></a>
-<a href="https://github.com/BhonePyaeMin/network-port-scanner"><img src="assets/card-network-port-scanner.svg" width="49%" alt="Network Port Scanner" /></a>
-<a href="https://github.com/BhonePyaeMin/GNS3-Live-Topology-Resilience-Dashboard"><img src="assets/card-gns3-dashboard.svg" width="49%" alt="GNS3 Live Topology &amp; Resilience Dashboard" /></a>
-<a href="https://github.com/BhonePyaeMin/Restaurant-Ordering-System"><img src="assets/card-restaurant-ordering-system.svg" width="49%" alt="Restaurant Ordering System" /></a>
-<a href="https://github.com/BhonePyaeMin/Mail-Shield"><img src="assets/card-mailshield.svg" width="49%" alt="MailShield — Email Header Analyzer" /></a>
-<a href="https://github.com/BhonePyaeMin/Spider-Lily"><img src="assets/card-spider-lily.svg" width="49%" alt="Spider Lily &amp; Lotus Pond" /></a>
-<a href="https://github.com/BhonePyaeMin/Letter"><img src="assets/card-letter.svg" width="49%" alt="Letter — An Interactive Apology Game" /></a>
-<a href="https://github.com/BhonePyaeMin/secure-expense-tracker"><img src="assets/card-spendwise.svg" width="49%" alt="SpendWise — Secure Expense Tracker" /></a>
-<a href="https://bhonepyaemin.com/#projects"><img src="assets/card-more.svg" width="49%" alt="Every project in detail on bhonepyaemin.com" /></a>
+<a href="https://github.com/BhonePyaeMin/AI-Powered-Network-Configuration-Automation"><img src="assets/bp-network-config.svg" width="49%" alt="AI-Powered Network Configuration Automation" /></a>
+<a href="https://github.com/BhonePyaeMin/Study_Ai"><img src="assets/bp-study-assistant.svg" width="49%" alt="AI-Based Study Assistant" /></a>
+<a href="https://github.com/BhonePyaeMin/netlab-3d"><img src="assets/bp-network-simulator.svg" width="49%" alt="NetLab 3D — Network &amp; Security Simulator" /></a>
+<a href="https://github.com/BhonePyaeMin/asset_borrowing_system"><img src="assets/bp-asset-borrowing.svg" width="49%" alt="Asset Borrowing System" /></a>
+<a href="https://github.com/BhonePyaeMin/network-port-scanner"><img src="assets/bp-network-port-scanner.svg" width="49%" alt="Network Port Scanner" /></a>
+<a href="https://github.com/BhonePyaeMin/GNS3-Live-Topology-Resilience-Dashboard"><img src="assets/bp-gns3-dashboard.svg" width="49%" alt="GNS3 Live Topology &amp; Resilience Dashboard" /></a>
+<a href="https://github.com/BhonePyaeMin/Restaurant-Ordering-System"><img src="assets/bp-restaurant-ordering-system.svg" width="49%" alt="Restaurant Ordering System" /></a>
+<a href="https://github.com/BhonePyaeMin/Mail-Shield"><img src="assets/bp-mailshield.svg" width="49%" alt="MailShield — Email Header Analyzer" /></a>
+<a href="https://github.com/BhonePyaeMin/Spider-Lily"><img src="assets/bp-spider-lily.svg" width="49%" alt="Spider Lily &amp; Lotus Pond" /></a>
+<a href="https://github.com/BhonePyaeMin/Letter"><img src="assets/bp-letter.svg" width="49%" alt="Letter — An Interactive Apology Game" /></a>
+<a href="https://github.com/BhonePyaeMin/secure-expense-tracker"><img src="assets/bp-spendwise.svg" width="49%" alt="SpendWise — Secure Expense Tracker" /></a>
+<a href="https://bhonepyaemin.com/#projects"><img src="assets/bp-more.svg" width="49%" alt="Full drawing set on bhonepyaemin.com" /></a>
 </p>
 
-<p align="center"><sub><b>Try them live:</b> <a href="https://bhonepyaemin.com/netlab/">NetLab 3D</a> · <a href="https://bhonepyaemin.com/mailshield/">MailShield</a> · <a href="https://bhonepyaemin.com/spiderlily/">Spider Lily</a> · <a href="https://bhonepyaemin.com/lotus/">Lotus Pond</a> · <a href="https://bhonepyaemin.com/letter/">Letter</a> &nbsp;·&nbsp; <b>Guides & PDFs:</b> <a href="https://bhonepyaemin.com/#projects">bhonepyaemin.com</a></sub></p>
+<p align="center"><sub><b>Running live:</b> <a href="https://bhonepyaemin.com/netlab/">NetLab 3D</a> · <a href="https://bhonepyaemin.com/mailshield/">MailShield</a> · <a href="https://bhonepyaemin.com/spiderlily/">Spider Lily</a> · <a href="https://bhonepyaemin.com/lotus/">Lotus Pond</a> · <a href="https://bhonepyaemin.com/letter/">Letter</a> &nbsp;·&nbsp; <b>Guides & PDFs:</b> <a href="https://bhonepyaemin.com/#projects">bhonepyaemin.com</a></sub></p>
 
-<img src="assets/h-toolbox.svg" width="100%" alt="toolbox — What I work with" />
+<img src="assets/bp-h-toolbox.svg" width="100%" alt="Detail D — Rack A, tools and skills" />
 
-<img src="assets/skills.svg" width="100%" alt="Network &amp; Security: Networking, Cybersecurity, GNS3, Cisco CLI, VMware, Network Automation, TCP/IP, Sockets, NetworkX, BCrypt. Software &amp; Web: Python, JavaScript, TypeScript, Java, C#, HTML, CSS, React, Three.js, WebGL, Canvas API, vis-network, Vite, Node.js, Express, Socket.IO, Flask, ASP.NET Core, Spring Boot, Spring Security, Spring Data JPA, Thymeleaf, REST API, PostgreSQL, SQLite, H2 Database, JUnit 5, unittest. AI / ML: Applied AI / ML, Generative AI, Gemini API, Computer Vision, MediaPipe, Tesseract OCR. Mobile: Flutter, Dart, Android, Figma. Cloud &amp; DevOps: Huawei Cloud, Cloud Computing, Docker, GitHub Actions. Languages I speak: Burmese (Native), English (Intermediate), Thai (Beginner), Japanese (Beginner)" />
+<img src="assets/bp-rack.svg" width="100%" alt="Rack of skills" />
 
-<img src="assets/soft-skills.svg" width="100%" alt="Soft skills: Communication, Open-mindedness, Teamwork, Leadership, Problem-Solving, Adaptability" />
+<img src="assets/bp-h-certs.svg" width="100%" alt="Detail E — Certification register" />
 
-<img src="assets/h-credentials.svg" width="100%" alt="credentials — Certified and verified" />
-
-<img src="assets/certificates.svg" width="100%" alt="15 certifications from Google (Coursera), Huawei and Anthropic" />
+<img src="assets/bp-register.svg" width="100%" alt="Certification register" />
 
 <details>
 <summary><b>Verify a certificate</b></summary>
@@ -68,15 +60,15 @@ I learn by breaking things down — trace the packet, read the config, rebuild i
 | Play It Safe: Manage Security Risks | Google Cybersecurity — Coursera | [Verify ↗](https://coursera.org/verify/YZUNHIOAMKMK) |
 | Connect and Protect: Networks and Network Security | Google Cybersecurity — Coursera | [Verify ↗](https://coursera.org/verify/9NXCOC1AUQ9E) |
 | HCIA Datacom | Huawei | [Verify ↗](https://e.huawei.com/cn/talent/#/cert/certificate-verification) |
-| HCCDA Tech Essentials | Huawei | Shown on my portfolio |
-| Claude 101 | Anthropic | Shown on my portfolio |
-| Claude Code 101 | Anthropic | Shown on my portfolio |
-| Claude Platform 101 | Anthropic | Shown on my portfolio |
-| Intro to Claude Cowork | Anthropic | Shown on my portfolio |
+| HCCDA Tech Essentials | Huawei | Listed on my portfolio |
+| Claude 101 | Anthropic | Listed on my portfolio |
+| Claude Code 101 | Anthropic | Listed on my portfolio |
+| Claude Platform 101 | Anthropic | Listed on my portfolio |
+| Intro to Claude Cowork | Anthropic | Listed on my portfolio |
 
 </details>
 
-<img src="assets/h-activity.svg" width="100%" alt="commits — Contribution activity" />
+<img src="assets/bp-h-activity.svg" width="100%" alt="Detail F — Commit trace" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhonePyaeMin/BhonePyaeMin/output/github-snake-dark.svg" />
@@ -84,20 +76,20 @@ I learn by breaking things down — trace the packet, read the config, rebuild i
   <img alt="A snake eating my GitHub contributions from the last 12 months" src="https://raw.githubusercontent.com/BhonePyaeMin/BhonePyaeMin/output/github-snake-dark.svg" />
 </picture>
 
-<p align="center"><sub>The snake redraws itself every day from my last 12 months of contributions.</sub></p>
+<p align="center"><sub>Redrawn every day from the last 12 months of commits.</sub></p>
 
-<img src="assets/h-contact.svg" width="100%" alt="ping me — Let's build something" />
+<img src="assets/bp-h-contact.svg" width="100%" alt="Detail G — Get in touch" />
 
-<p align="center">Got an internship, a network to automate or a project to build? I'd love to hear about it.</p>
+<p align="center">Have an internship, a network to automate or a build in mind? Send it over.</p>
 
 <div align="center">
 
-<a href="https://bhonepyaemin.com/"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
-<a href="https://bhonepyaemin.com/resume.pdf"><img src="assets/btn-resume.svg" height="46" alt="Resume" /></a>
-<a href="https://www.linkedin.com/in/bhone-pyae-min-77314b434"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
-<a href="https://th.jobsdb.com/th/profiles/bhonepyae-min-ns7y634rgd"><img src="assets/btn-jobsdb.svg" height="46" alt="JobsDB" /></a>
-<a href="mailto:bhonepyaemin.tech@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email" /></a>
+<a href="https://bhonepyaemin.com/"><img src="assets/bp-btn-portfolio.svg" height="44" alt="Portfolio" /></a>
+<a href="https://bhonepyaemin.com/resume.pdf"><img src="assets/bp-btn-resume.svg" height="44" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/bhone-pyae-min-77314b434"><img src="assets/bp-btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="https://th.jobsdb.com/th/profiles/bhonepyae-min-ns7y634rgd"><img src="assets/bp-btn-jobsdb.svg" height="44" alt="JobsDB" /></a>
+<a href="mailto:bhonepyaemin.tech@gmail.com"><img src="assets/bp-btn-email.svg" height="44" alt="Email" /></a>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by — guides, PDFs and live demos live at bhonepyaemin.com" />
+<img src="assets/bp-footer.svg" width="100%" alt="End of set — thanks for reviewing. Full interactive build at bhonepyaemin.com" />
 
 </div>
