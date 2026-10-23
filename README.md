@@ -21,34 +21,21 @@
 
 <img src="assets/bp-h-projects.svg" width="100%" alt="Detail C — Assemblies" />
 
-<table width="100%">
-<tr><th align="center">Project</th><th align="left">Description</th><th align="center">Tech</th></tr>
-<tr>
-<td align="center"><a href="https://github.com/BhonePyaeMin/AI-Powered-Network-Configuration-Automation"><img src="assets/bp-proj-network-config.svg" height="40" alt="AI NETWORK AUTOMATION" /></a></td>
-<td>Turns a topology picture into a configured, tested GNS3 network.<br /><sub><a href="https://github.com/BhonePyaeMin/AI-Powered-Network-Configuration-Automation">Source</a></sub></td>
-<td align="center"><img src="assets/bp-techs-network-config.svg" height="44" alt="Python, Gemini, GNS3" /></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/BhonePyaeMin/netlab-3d"><img src="assets/bp-proj-network-simulator.svg" height="40" alt="NETLAB 3D" /></a></td>
-<td>A 3D network lab with a Cisco-style CLI and security missions.<br /><sub><a href="https://github.com/BhonePyaeMin/netlab-3d">Source</a> · <a href="https://bhonepyaemin.com/netlab/">▶ Live demo</a></sub></td>
-<td align="center"><img src="assets/bp-techs-network-simulator.svg" height="44" alt="Three.js, React, TypeScript" /></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/BhonePyaeMin/Mail-Shield"><img src="assets/bp-proj-mailshield.svg" height="40" alt="MAILSHIELD" /></a></td>
-<td>Spots spoofed and phishing emails by analyzing their headers.<br /><sub><a href="https://github.com/BhonePyaeMin/Mail-Shield">Source</a> · <a href="https://bhonepyaemin.com/mailshield/">▶ Live demo</a></sub></td>
-<td align="center"><img src="assets/bp-techs-mailshield.svg" height="44" alt="Python, Flask, JavaScript" /></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/BhonePyaeMin/GNS3-Live-Topology-Resilience-Dashboard"><img src="assets/bp-proj-gns3-dashboard.svg" height="40" alt="GNS3 DASHBOARD" /></a></td>
-<td>A live map of a GNS3 lab that flags links whose failure would split the network.<br /><sub><a href="https://github.com/BhonePyaeMin/GNS3-Live-Topology-Resilience-Dashboard">Source</a></sub></td>
-<td align="center"><img src="assets/bp-techs-gns3-dashboard.svg" height="44" alt="Python, Flask, GNS3" /></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/BhonePyaeMin/secure-expense-tracker"><img src="assets/bp-proj-spendwise.svg" height="40" alt="SPENDWISE" /></a></td>
-<td>A secure multi-user expense tracker built on Spring Boot.<br /><sub><a href="https://github.com/BhonePyaeMin/secure-expense-tracker">Source</a></sub></td>
-<td align="center"><img src="assets/bp-techs-spendwise.svg" height="44" alt="Java, Spring Boot, JUnit 5" /></td>
-</tr>
-</table>
+<p align="center">
+<img src="assets/bp-tbl-head.svg" width="100%" alt="Project, Description, Tech" />
+<br />
+<a href="https://github.com/BhonePyaeMin/AI-Powered-Network-Configuration-Automation"><img src="assets/bp-tbl-network-config.svg" width="100%" alt="AI NETWORK AUTOMATION: Turns a topology picture into a configured, tested GNS3 network. Tech: Python, Gemini, GNS3" /></a>
+<br />
+<a href="https://github.com/BhonePyaeMin/netlab-3d"><img src="assets/bp-tbl-network-simulator.svg" width="100%" alt="NETLAB 3D: A 3D network lab with a Cisco-style CLI and security missions. Tech: Three.js, React, TypeScript" /></a>
+<br />
+<a href="https://github.com/BhonePyaeMin/Mail-Shield"><img src="assets/bp-tbl-mailshield.svg" width="100%" alt="MAILSHIELD: Spots spoofed and phishing emails by analyzing their headers. Tech: Python, Flask, JavaScript" /></a>
+<br />
+<a href="https://github.com/BhonePyaeMin/GNS3-Live-Topology-Resilience-Dashboard"><img src="assets/bp-tbl-gns3-dashboard.svg" width="100%" alt="GNS3 DASHBOARD: A live map of a GNS3 lab that flags links whose failure would split the network. Tech: Python, Flask, GNS3" /></a>
+<br />
+<a href="https://github.com/BhonePyaeMin/secure-expense-tracker"><img src="assets/bp-tbl-spendwise.svg" width="100%" alt="SPENDWISE: A secure multi-user expense tracker built on Spring Boot. Tech: Java, Spring Boot, JUnit 5" /></a>
+</p>
+
+<p align="center"><sub><b>▶ Live demos:</b> <a href="https://bhonepyaemin.com/netlab/">NetLab 3D</a> · <a href="https://bhonepyaemin.com/mailshield/">MailShield</a></sub></p>
 
 <p align="center"><a href="https://bhonepyaemin.com/#projects"><img src="assets/bp-btn-all-projects.svg" height="46" alt="View all 11 projects" /></a></p>
 

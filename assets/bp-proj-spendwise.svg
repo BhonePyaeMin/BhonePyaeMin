@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40" role="img" aria-label="SPENDWISE">
-  <rect x="1" y="1" width="148" height="38" rx="4" fill="#0C3272" stroke="#EAF2FF" stroke-opacity="0.85" stroke-width="1.2"/>
-  <path d="M4 13V4H13" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M146 13V4H137" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M4 27V36H13M146 27V36H137" fill="none" stroke="#FDBA74" stroke-width="1.6"/>
-  <g transform="translate(18 11) scale(0.75)" fill="none" stroke="#FDBA74" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M2.586 17.414A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814a6.5 6.5 0 1 0-4-4z"></path><circle cx="16.5" cy="7.5" r=".5" fill="currentColor"></circle></g>
-  <text x="44" y="24.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.1" fill="#EAF2FF">SPENDWISE</text>
-</svg>

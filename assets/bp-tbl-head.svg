@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="52" viewBox="0 0 1000 52" role="img" aria-label="Featured projects: Project, Description, Tech">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C3272"/><stop offset="1" stop-color="#082456"/></linearGradient>
+    <pattern id="gmin" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M10 0H0V10" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/></pattern>
+    <pattern id="gmaj" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#FFFFFF" stroke-opacity="0.1"/></pattern>
+    <clipPath id="paper"><rect width="1000" height="52" rx="10"/></clipPath></defs><g clip-path="url(#paper)"><rect width="1000" height="52" fill="url(#bgp)"/><rect width="1000" height="52" fill="url(#gmin)"/><rect width="1000" height="52" fill="url(#gmaj)"/>
+    <path d="M306 18V34" stroke="#A9C6F2" stroke-opacity="0.4" stroke-dasharray="3 5"/><path d="M772 18V34" stroke="#A9C6F2" stroke-opacity="0.4" stroke-dasharray="3 5"/>
+    <text x="160" y="30" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2.5" fill="#FDBA74">PROJECT</text><text x="322" y="30" text-anchor="start" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2.5" fill="#FDBA74">DESCRIPTION</text><text x="880" y="30" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2.5" fill="#FDBA74">TECH</text>
+  
+      <rect x="6" y="6" width="988" height="40" fill="none" stroke="#A9C6F2" stroke-opacity="0.45"/>
+      <rect x="14" y="14" width="972" height="24" fill="none" stroke="#EAF2FF" stroke-opacity="0.8" stroke-width="1.6"/></g>
+</svg>
