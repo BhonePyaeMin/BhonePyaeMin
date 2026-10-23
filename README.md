@@ -37,9 +37,9 @@
 
 <p align="center"><sub><b>Running live:</b> <a href="https://bhonepyaemin.com/netlab/">NetLab 3D</a> · <a href="https://bhonepyaemin.com/mailshield/">MailShield</a> · <a href="https://bhonepyaemin.com/spiderlily/">Spider Lily</a> · <a href="https://bhonepyaemin.com/lotus/">Lotus Pond</a> · <a href="https://bhonepyaemin.com/letter/">Letter</a> &nbsp;·&nbsp; <b>Guides & PDFs:</b> <a href="https://bhonepyaemin.com/#projects">bhonepyaemin.com</a></sub></p>
 
-<img src="assets/bp-h-toolbox.svg" width="100%" alt="Detail D — Rack A, tools and skills" />
+<img src="assets/bp-h-toolbox.svg" width="100%" alt="Detail D — Rack A, the tools I reach for most" />
 
-<img src="assets/bp-rack.svg" width="100%" alt="Rack of skills" />
+<img src="assets/bp-rack.svg" width="100%" alt="Core tools: Network &amp; Infra: Cisco IOS, GNS3, VMware, Huawei. Languages: Python, JavaScript, TypeScript, Java, C#. Frameworks: React, Node.js, Flask, Spring Boot, Flutter, Three.js. Data · DevOps · AI: PostgreSQL, Docker, Git, GitHub Actions, Gemini, MediaPipe" />
 
 <img src="assets/bp-h-certs.svg" width="100%" alt="Detail E — Certification register" />
 
