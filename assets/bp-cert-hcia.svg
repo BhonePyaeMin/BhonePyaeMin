@@ -7,7 +7,7 @@
     <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C3272"/><stop offset="1" stop-color="#082456"/></linearGradient>
     <pattern id="gmin" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M10 0H0V10" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/></pattern>
     <pattern id="gmaj" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#FFFFFF" stroke-opacity="0.1"/></pattern>
-    <clipPath id="paper"><rect width="320" height="284" rx="10"/></clipPath><path id="ring" d="M120 74a40 40 0 1 1 80 0a40 40 0 1 1 -80 0"/></defs><g clip-path="url(#paper)"><rect width="320" height="284" fill="url(#bgp)"/><rect width="320" height="284" fill="url(#gmin)"/><rect width="320" height="284" fill="url(#gmaj)"/>
+    <clipPath id="paper"><rect width="320" height="284" rx="10"/></clipPath><linearGradient id="glint" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.24"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient><path id="ring" d="M120 74a40 40 0 1 1 80 0a40 40 0 1 1 -80 0"/></defs><g clip-path="url(#paper)"><rect width="320" height="284" fill="url(#bgp)"/><rect width="320" height="284" fill="url(#gmin)"/><rect width="320" height="284" fill="url(#gmaj)"/>
     <g class="seal">
       <circle cx="160" cy="74" r="50" fill="#FF8A8A" fill-opacity="0.06" stroke="#FF8A8A" stroke-width="2"/>
       <g><animateTransform attributeName="transform" type="rotate" from="0 160 74" to="360 160 74" dur="24s" repeatCount="indefinite"/>
@@ -19,6 +19,7 @@
     <path d="M20 240H300" stroke="#A9C6F2" stroke-opacity="0.35"/>
     <text x="22" y="259" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="700" fill="#86EFAC">✓ EARNED</text>
     <text x="298" y="259" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="700" fill="#FDBA74">VERIFY ↗</text>
+    <rect x="-90" y="0" width="46" height="284" fill="url(#glint)" transform="skewX(-18)"><animate attributeName="x" values="-90;410;410" keyTimes="0;0.22;1" dur="7s" begin="1.2s" repeatCount="indefinite"/></rect>
   
       <rect x="6" y="6" width="308" height="272" fill="none" stroke="#A9C6F2" stroke-opacity="0.45"/>
       <rect x="14" y="14" width="292" height="256" fill="none" stroke="#EAF2FF" stroke-opacity="0.8" stroke-width="1.6"/></g>
