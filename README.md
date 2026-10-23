@@ -13,7 +13,7 @@
 
 <img src="assets/bp-h-about.svg" width="100%" alt="Detail A — The engineer, on one sheet" />
 
-<img src="assets/bp-chip.svg" width="100%" alt="BPM-2026 pinout and datasheet" />
+<img src="assets/bp-chip.svg" width="100%" alt="Pinout and datasheet" />
 
 <img src="assets/bp-h-journey.svg" width="100%" alt="Detail B — Build history" />
 
