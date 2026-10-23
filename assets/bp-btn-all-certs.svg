@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="46" viewBox="0 0 340 46" role="img" aria-label="VIEW ALL 15 CERTIFICATES ↗">
+  <style>.ants{stroke-dasharray:4 4;animation:ants 1.4s linear infinite}@keyframes ants{to{stroke-dashoffset:-16}}</style>
+  <rect x="1" y="1" width="338" height="44" rx="4" fill="#0C3272"/>
+  <rect x="1" y="1" width="338" height="44" rx="4" fill="none" stroke="#FDBA74" stroke-width="1.4" class="ants"/>
+  <g transform="translate(22 14) scale(0.75)" fill="none" stroke="#FDBA74" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"></path><path d="m16 9-5.5 5.5L8 12"></path></g>
+  <text x="50" y="28.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1.4" fill="#EAF2FF">VIEW ALL 15 CERTIFICATES ↗</text>
+</svg>
