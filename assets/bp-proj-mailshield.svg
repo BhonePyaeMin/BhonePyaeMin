@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40" role="img" aria-label="MAILSHIELD">
+  <rect x="1" y="1" width="148" height="38" rx="4" fill="#0C3272" stroke="#EAF2FF" stroke-opacity="0.85" stroke-width="1.2"/>
+  <path d="M4 13V4H13" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M146 13V4H137" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M4 27V36H13M146 27V36H137" fill="none" stroke="#FDBA74" stroke-width="1.6"/>
+  <g transform="translate(18 11) scale(0.75)" fill="none" stroke="#FDBA74" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path></g>
+  <text x="44" y="24.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.1" fill="#EAF2FF">MAILSHIELD</text>
+</svg>

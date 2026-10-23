@@ -21,22 +21,36 @@
 
 <img src="assets/bp-h-projects.svg" width="100%" alt="Detail C — Assemblies" />
 
-<p align="center">
-<a href="https://github.com/BhonePyaeMin/AI-Powered-Network-Configuration-Automation"><img src="assets/bp-card-network-config.svg" width="32.5%" alt="AI-Powered Network Configuration Automation: Topology picture in, configured GNS3 lab out — AI does the CLI work." /></a>
-<a href="https://github.com/BhonePyaeMin/Study_Ai"><img src="assets/bp-card-study-assistant.svg" width="32.5%" alt="AI-Based Study Assistant: A Gemini tutor that turns notes into quizzes and flashcards." /></a>
-<a href="https://github.com/BhonePyaeMin/netlab-3d"><img src="assets/bp-card-network-simulator.svg" width="32.5%" alt="NetLab 3D — Network &amp; Security Simulator: A 3D network lab with a Cisco-style CLI and IDS missions." /></a>
-<a href="https://github.com/BhonePyaeMin/asset_borrowing_system"><img src="assets/bp-card-asset-borrowing.svg" width="32.5%" alt="Asset Borrowing System: Borrow and return university assets, with approvals." /></a>
-<a href="https://github.com/BhonePyaeMin/network-port-scanner"><img src="assets/bp-card-network-port-scanner.svg" width="32.5%" alt="Network Port Scanner: Pure-Python TCP port scanner with banner grabbing." /></a>
-<a href="https://github.com/BhonePyaeMin/GNS3-Live-Topology-Resilience-Dashboard"><img src="assets/bp-card-gns3-dashboard.svg" width="32.5%" alt="GNS3 Live Topology &amp; Resilience Dashboard: A live GNS3 topology map that flags fragile links." /></a>
-<a href="https://github.com/BhonePyaeMin/Restaurant-Ordering-System"><img src="assets/bp-card-restaurant-ordering-system.svg" width="32.5%" alt="Restaurant Ordering System: QR ordering with PromptPay and a live kitchen view." /></a>
-<a href="https://github.com/BhonePyaeMin/Mail-Shield"><img src="assets/bp-card-mailshield.svg" width="32.5%" alt="MailShield — Email Header Analyzer: Spots spoofed and phishing emails from their headers." /></a>
-<a href="https://github.com/BhonePyaeMin/Spider-Lily"><img src="assets/bp-card-spider-lily.svg" width="32.5%" alt="Spider Lily &amp; Lotus Pond: Hand-tracked 3D flowers that bloom as you open your hand." /></a>
-<a href="https://github.com/BhonePyaeMin/Letter"><img src="assets/bp-card-letter.svg" width="32.5%" alt="Letter — An Interactive Apology Game: Catch the hearts to unlock a self-typing letter." /></a>
-<a href="https://github.com/BhonePyaeMin/secure-expense-tracker"><img src="assets/bp-card-spendwise.svg" width="32.5%" alt="SpendWise — Secure Expense Tracker: A secure multi-user expense tracker on Spring Boot." /></a>
-<a href="https://bhonepyaemin.com/#projects"><img src="assets/bp-card-more.svg" width="32.5%" alt="All projects on bhonepyaemin.com" /></a>
-</p>
+<table width="100%">
+<tr><th align="center">Project</th><th align="left">Description</th><th align="center">Tech</th></tr>
+<tr>
+<td align="center"><a href="https://github.com/BhonePyaeMin/AI-Powered-Network-Configuration-Automation"><img src="assets/bp-proj-network-config.svg" height="40" alt="AI NETWORK AUTOMATION" /></a></td>
+<td>Turns a topology picture into a configured, tested GNS3 network.<br /><sub><a href="https://github.com/BhonePyaeMin/AI-Powered-Network-Configuration-Automation">Source</a></sub></td>
+<td align="center"><img src="assets/bp-techs-network-config.svg" height="44" alt="Python, Gemini, GNS3" /></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/BhonePyaeMin/netlab-3d"><img src="assets/bp-proj-network-simulator.svg" height="40" alt="NETLAB 3D" /></a></td>
+<td>A 3D network lab with a Cisco-style CLI and security missions.<br /><sub><a href="https://github.com/BhonePyaeMin/netlab-3d">Source</a> · <a href="https://bhonepyaemin.com/netlab/">▶ Live demo</a></sub></td>
+<td align="center"><img src="assets/bp-techs-network-simulator.svg" height="44" alt="Three.js, React, TypeScript" /></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/BhonePyaeMin/Mail-Shield"><img src="assets/bp-proj-mailshield.svg" height="40" alt="MAILSHIELD" /></a></td>
+<td>Spots spoofed and phishing emails by analyzing their headers.<br /><sub><a href="https://github.com/BhonePyaeMin/Mail-Shield">Source</a> · <a href="https://bhonepyaemin.com/mailshield/">▶ Live demo</a></sub></td>
+<td align="center"><img src="assets/bp-techs-mailshield.svg" height="44" alt="Python, Flask, JavaScript" /></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/BhonePyaeMin/GNS3-Live-Topology-Resilience-Dashboard"><img src="assets/bp-proj-gns3-dashboard.svg" height="40" alt="GNS3 DASHBOARD" /></a></td>
+<td>A live map of a GNS3 lab that flags links whose failure would split the network.<br /><sub><a href="https://github.com/BhonePyaeMin/GNS3-Live-Topology-Resilience-Dashboard">Source</a></sub></td>
+<td align="center"><img src="assets/bp-techs-gns3-dashboard.svg" height="44" alt="Python, Flask, GNS3" /></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/BhonePyaeMin/secure-expense-tracker"><img src="assets/bp-proj-spendwise.svg" height="40" alt="SPENDWISE" /></a></td>
+<td>A secure multi-user expense tracker built on Spring Boot.<br /><sub><a href="https://github.com/BhonePyaeMin/secure-expense-tracker">Source</a></sub></td>
+<td align="center"><img src="assets/bp-techs-spendwise.svg" height="44" alt="Java, Spring Boot, JUnit 5" /></td>
+</tr>
+</table>
 
-<p align="center"><sub><b>Running live:</b> <a href="https://bhonepyaemin.com/netlab/">NetLab 3D</a> · <a href="https://bhonepyaemin.com/mailshield/">MailShield</a> · <a href="https://bhonepyaemin.com/spiderlily/">Spider Lily</a> · <a href="https://bhonepyaemin.com/lotus/">Lotus Pond</a> · <a href="https://bhonepyaemin.com/letter/">Letter</a> &nbsp;·&nbsp; <b>Guides & PDFs:</b> <a href="https://bhonepyaemin.com/#projects">bhonepyaemin.com</a></sub></p>
+<p align="center"><a href="https://bhonepyaemin.com/#projects"><img src="assets/bp-btn-all-projects.svg" height="46" alt="View all 11 projects" /></a></p>
 
 <img src="assets/bp-h-toolbox.svg" width="100%" alt="Detail D — Rack A, the tools I reach for most" />
 
@@ -63,10 +77,6 @@
 <p align="center"><sub>Redrawn every day from the last 12 months of commits.</sub></p>
 
 <img src="assets/bp-h-contact.svg" width="100%" alt="Detail G — Get in touch" />
-
-<p align="center">Have an internship, a network to automate or a build in mind? Send it over.</p>
-
-<p align="center"><sub>📧 <a href="mailto:bhonepyaemin.tech@gmail.com">bhonepyaemin.tech@gmail.com</a> &nbsp;·&nbsp; 💬 LINE ID: <a href="https://line.me/ti/p/VS7yTGwU7A"><code>noturbusiness123</code></a></sub></p>
 
 <div align="center">
 

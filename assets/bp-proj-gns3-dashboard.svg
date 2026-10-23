@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="171" height="40" viewBox="0 0 171 40" role="img" aria-label="GNS3 DASHBOARD">
+  <rect x="1" y="1" width="169" height="38" rx="4" fill="#0C3272" stroke="#EAF2FF" stroke-opacity="0.85" stroke-width="1.2"/>
+  <path d="M4 13V4H13" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M167 13V4H158" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M4 27V36H13M167 27V36H158" fill="none" stroke="#FDBA74" stroke-width="1.6"/>
+  <g transform="translate(18 11) scale(0.75)" fill="none" stroke="#FDBA74" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2"></path></g>
+  <text x="44" y="24.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.1" fill="#EAF2FF">GNS3 DASHBOARD</text>
+</svg>

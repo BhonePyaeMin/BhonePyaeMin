@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="46" viewBox="0 0 340 46" role="img" aria-label="VIEW ALL 11 PROJECTS ↗">
+  <style>.ants{stroke-dasharray:4 4;animation:ants 1.4s linear infinite}@keyframes ants{to{stroke-dashoffset:-16}}</style>
+  <rect x="1" y="1" width="338" height="44" rx="4" fill="#0C3272"/>
+  <rect x="1" y="1" width="338" height="44" rx="4" fill="none" stroke="#FDBA74" stroke-width="1.4" class="ants"/>
+  <g transform="translate(22 14) scale(0.75)" fill="none" stroke="#FDBA74" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"></path><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09"></path><path d="M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z"></path><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05"></path></g>
+  <text x="50" y="28.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1.4" fill="#EAF2FF">VIEW ALL 11 PROJECTS ↗</text>
+</svg>

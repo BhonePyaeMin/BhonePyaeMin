@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="40" viewBox="0 0 224 40" role="img" aria-label="AI NETWORK AUTOMATION">
+  <rect x="1" y="1" width="222" height="38" rx="4" fill="#0C3272" stroke="#EAF2FF" stroke-opacity="0.85" stroke-width="1.2"/>
+  <path d="M4 13V4H13" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M220 13V4H211" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M4 27V36H13M220 27V36H211" fill="none" stroke="#FDBA74" stroke-width="1.6"/>
+  <g transform="translate(18 11) scale(0.75)" fill="none" stroke="#FDBA74" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect width="8" height="8" x="3" y="3" rx="2"></rect><path d="M7 11v4a2 2 0 0 0 2 2h4"></path><rect width="8" height="8" x="13" y="13" rx="2"></rect></g>
+  <text x="44" y="24.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.1" fill="#EAF2FF">AI NETWORK AUTOMATION</text>
+</svg>

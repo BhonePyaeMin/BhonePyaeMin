@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40" role="img" aria-label="NETLAB 3D">
+  <rect x="1" y="1" width="148" height="38" rx="4" fill="#0C3272" stroke="#EAF2FF" stroke-opacity="0.85" stroke-width="1.2"/>
+  <path d="M4 13V4H13" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M146 13V4H137" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M4 27V36H13M146 27V36H137" fill="none" stroke="#FDBA74" stroke-width="1.6"/>
+  <g transform="translate(18 11) scale(0.75)" fill="none" stroke="#FDBA74" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="16" y="16" width="6" height="6" rx="1"></rect><rect x="2" y="16" width="6" height="6" rx="1"></rect><rect x="9" y="2" width="6" height="6" rx="1"></rect><path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3"></path><path d="M12 12V8"></path></g>
+  <text x="44" y="24.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.1" fill="#EAF2FF">NETLAB 3D</text>
+</svg>
