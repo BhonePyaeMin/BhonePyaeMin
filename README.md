@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/bhone-pyae-min-77314b434"><img src="assets/bp-btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
 <a href="https://th.jobsdb.com/th/profiles/bhonepyae-min-ns7y634rgd"><img src="assets/bp-btn-jobsdb.svg" height="44" alt="JobsDB" /></a>
 <a href="mailto:bhonepyaemin.tech@gmail.com"><img src="assets/bp-btn-email.svg" height="44" alt="Email" /></a>
+<a href="https://line.me/ti/p/VS7yTGwU7A"><img src="assets/bp-btn-line.svg" height="44" alt="LINE" /></a>
 
 </div>
 
@@ -82,6 +83,8 @@
 
 <p align="center">Have an internship, a network to automate or a build in mind? Send it over.</p>
 
+<p align="center"><sub>📧 <a href="mailto:bhonepyaemin.tech@gmail.com">bhonepyaemin.tech@gmail.com</a> &nbsp;·&nbsp; 💬 LINE ID: <a href="https://line.me/ti/p/VS7yTGwU7A"><code>noturbusiness123</code></a></sub></p>
+
 <div align="center">
 
 <a href="https://bhonepyaemin.com/"><img src="assets/bp-btn-portfolio.svg" height="44" alt="Portfolio" /></a>
@@ -89,6 +92,7 @@
 <a href="https://www.linkedin.com/in/bhone-pyae-min-77314b434"><img src="assets/bp-btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
 <a href="https://th.jobsdb.com/th/profiles/bhonepyae-min-ns7y634rgd"><img src="assets/bp-btn-jobsdb.svg" height="44" alt="JobsDB" /></a>
 <a href="mailto:bhonepyaemin.tech@gmail.com"><img src="assets/bp-btn-email.svg" height="44" alt="Email" /></a>
+<a href="https://line.me/ti/p/VS7yTGwU7A"><img src="assets/bp-btn-line.svg" height="44" alt="LINE" /></a>
 
 <img src="assets/bp-footer.svg" width="100%" alt="End of set — thanks for reviewing. Full interactive build at bhonepyaemin.com" />
 

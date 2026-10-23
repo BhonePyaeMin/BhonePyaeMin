@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="172" height="44" viewBox="0 0 172 44" role="img" aria-label="LinkedIn">
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="44" viewBox="0 0 142 44" role="img" aria-label="LinkedIn">
   <style>.ants{stroke-dasharray:4 4;animation:ants 1.4s linear infinite}@keyframes ants{to{stroke-dashoffset:-16}}</style>
-  <rect x="1" y="1" width="170" height="42" rx="4" fill="#0C3272"/>
-  <rect x="1" y="1" width="170" height="42" rx="4" fill="none" stroke="#EAF2FF" stroke-opacity="0.85" stroke-width="1.2" class="ants"/>
-  <path d="M4 14V4H14" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M168 14V4H158" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M4 30V40H14M168 30V40H158" fill="none" stroke="#FDBA74" stroke-width="1.6"/>
-  <g transform="translate(24 13) scale(0.75)" fill="none" stroke="#EAF2FF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></g>
-  <text x="52" y="27" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1.5" fill="#EAF2FF">LINKEDIN</text>
+  <rect x="1" y="1" width="140" height="42" rx="4" fill="#0C3272"/>
+  <rect x="1" y="1" width="140" height="42" rx="4" fill="none" stroke="#EAF2FF" stroke-opacity="0.85" stroke-width="1.2" class="ants"/>
+  <path d="M4 14V4H14" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M138 14V4H128" fill="none" stroke="#FDBA74" stroke-width="1.6"/><path d="M4 30V40H14M138 30V40H128" fill="none" stroke="#FDBA74" stroke-width="1.6"/>
+  <g transform="translate(20 13) scale(0.75)" fill="none" stroke="#EAF2FF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></g>
+  <text x="46" y="27" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#EAF2FF">LINKEDIN</text>
 </svg>
